@@ -1,4 +1,4 @@
-# 🚢 Submarine Hunt
+<h1> 🚢 Submarine Hunt </h1>
 It's a simple game developed in #C. The gamer is the BattleShip, and he has to attack the Submarine in the ocean.
 
 # 👾 "How do I play?"
