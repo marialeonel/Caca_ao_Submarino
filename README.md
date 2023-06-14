@@ -11,10 +11,13 @@ printf("\nBATTLESHIP'S POSITION: ");
 It was my final project for the subject of Algorithms as a freshman student of my course in 2022. Also, my final media was 8,6.
 
 # 🔧 "What tools did you use?"
-I just used the [Online GDB] (https://www.onlinegdb.com/).
+<a href="https://www.onlinegdb.com/" > Online GDB!</a>
 
 # 👩‍💻 "Are you the unic author?"
 Yes, this project was individual.
 
 # 🍀 THANK YOU!
-Thanks for reading and enjoy the game! You can follow me on [My Linkedin Profile] (https://www.linkedin.com/in/maria-fernanda-leonel-bertelli-252480257)!
+<p> 
+  Thanks for reading and enjoy the game! You can follow me on my Linkedin Profile:
+  <a href = "https://www.linkedin.com/in/maria-fernanda-leonel-bertelli-252480257"> Maria Fernanda Leonel Bertelli! </a>
+</p>
